@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Dot",
+    "img": "assets/img/1_a.jpg",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+    "price": "100",
+    "brand": "Zara",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget."
+  },
+  {
+    "name": "Silvia Cagnani",
+    "img": "assets/img/1_b.jpg",
+    "text": "tempor incididunt ut labore et dolore magna aliqua. Ut enim ad sed do eiusmod",
+    "price": "250",
+    "brand": "Bershka",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget."
+  },
+  {
+    "name": "Yellow English Rose",
+    "img": "assets/img/1_c.jpg",
+    "text": "minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "price": "500",
+    "brand": "H&M",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget."
+  },
+  {
+    "name": "Purple King",
+    "img": "assets/img/1_d.jpg",
+    "text": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "price": "300",
+    "brand": "Zara",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget."
+  },
+  {
+    "name": "Pall",
+    "img": "assets/img/1_e.jpg",
+    "text": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+    "price": "200",
+    "brand": "Esprit",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget."
+  },
+  {
+    "name": "White Glory",
+    "img": "assets/img/1_f.jpg",
+    "text": "ncididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+    "price": "170",
+    "brand": "H&M",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget."
+  },
+  {
+    "name": "Wild Girl",
+    "img": "assets/img/1_g.jpg",
+    "text": "uis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure",
+    "price": "290",
+    "brand": "Oasis",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget."
+  },
+  {
+    "name": "Double Pink Rose",
+    "img": "assets/img/1_j.jpg",
+    "text": "dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur",
+    "price": "160",
+    "brand": "Esprit",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget."
+  },
+  {
+    "name": "Ambroise Verschaffelt",
+    "img": "assets/img/1_k.jpg",
+    "text": "sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "price": "260",
+    "brand": "Mango",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget."
+  },
+  {
+    "name": "Ambroise Verschaffelt",
+    "img": "assets/img/1_l.jpg",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+    "price": "175",
+    "brand": "Oasis",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget."
+  },
+  {
+    "name": "Ambroise Verschaffelt",
+    "img": "assets/img/1_m.jpg",
+    "text": "tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,",
+    "price": "230",
+    "brand": "Mango",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget."
+  },
+  {
+    "name": "Ambroise Verschaffelt",
+    "img": "assets/img/1_n.jpg",
+    "text": "quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in",
+    "price": "340",
+    "brand": "H&M",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget."
+  }
+]
